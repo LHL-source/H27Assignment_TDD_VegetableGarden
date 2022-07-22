@@ -145,14 +145,14 @@ const getTotalProfit = (input) => {
 
 module.exports = {
     // getYieldForPlant,
-    // getYieldForPlant_1,
-    // getYieldForCrop,
+    getYieldForPlant_1,
+    getYieldForCrop,
     // getTotalYield,
-    // getTotalYieldWithFactor,
+    getTotalYieldWithFactor,
     // //getTotalYield_ZeroAmount,
-    // getCostForCrop,
+    getCostForCrop,
     // getRevenueForCrop,
-    // getRevenueForCropWithFactor,
-    // getProfitForCrop,
+    getRevenueForCropWithFactor,
+    getProfitForCrop,
     getTotalProfit
 };
